@@ -1,11 +1,10 @@
 # CNN-based-Road-Detection
 This repository is road detection based cnn(convolutional neural network).
 
+### input
+
+<img src="./img/test02.png" height="250px">
+
 ### model output
 
-<a align="center">
-  <img src="./img/test02.png"
-</a>
-<a align="center">
-  <img src="./img/test01.png"
-</a>
+<img src="./img/test01.png" height="250px">
